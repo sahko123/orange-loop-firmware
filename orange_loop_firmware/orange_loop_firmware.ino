@@ -1,13 +1,3 @@
-/* -----------------------------------------------------------------
-
-   Example - Overlay test script
-
-   HCMS39xx Library
-   https://github.com/Andy4495/HCMS39xx
-
-   Modified for overlay functionality test
-
-*/
 #include "HCMS39xx.h"
 #include "font5x7.h"
 #include <STM32RTC.h>
